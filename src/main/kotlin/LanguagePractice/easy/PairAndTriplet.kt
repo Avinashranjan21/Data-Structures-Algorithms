@@ -10,10 +10,11 @@ package LanguagePractice.easy
 
 fun main() {
     val fullName = Pair("Avinash", "Pandey")
+    val (firstName, lastname) = fullName
     val accountNumber = 123456789
     val creditCardNumber = Triple("123456789", "12/12/20", "123")
     val accountDetails = Triple(fullName, accountNumber, creditCardNumber)
-    println("Account holder first name is ${fullName.first} and last name is ${fullName.second}")
+    println("Account holder first name is $firstName and last name is $lastname")
     println("Account details of ${fullName.first} is account number is ${accountDetails.second}")
     println("Credit card details of ${fullName.first} is below \n ${creditCardNumber.first} \n ${creditCardNumber.second} \n ${creditCardNumber.third}")
 }
