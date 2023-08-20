@@ -1,4 +1,4 @@
-package LanguagePractice.collection
+package language_practice.collection
 
 fun main() {
     val alphabet = arrayOf("A","B","C","D")

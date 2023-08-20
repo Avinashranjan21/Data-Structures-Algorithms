@@ -1,4 +1,4 @@
-package LanguagePractice.easy
+package language_practice.easy
 
 // Write a program for calculator
 

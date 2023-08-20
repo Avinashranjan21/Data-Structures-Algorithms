@@ -1,4 +1,4 @@
-package LanguagePractice
+package language_practice
 
 fun main() {
     println("Hello World")

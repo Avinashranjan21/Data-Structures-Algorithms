@@ -1,4 +1,4 @@
-package LanguagePractice.easy
+package language_practice.easy
 
 /**
  * A Pair is a simple data class that holds two values together.
