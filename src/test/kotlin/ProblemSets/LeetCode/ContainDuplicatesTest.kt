@@ -2,6 +2,7 @@ package ProblemSets.LeetCode
 
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test
+import problem_sets.leetcode.ContainDuplicates
 
 class ContainDuplicatesTest {
 
